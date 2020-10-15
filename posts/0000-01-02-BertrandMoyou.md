@@ -2,6 +2,6 @@
 layout: slide 
 title:"Welcom to our second slide!"
 ---
-Your test
+I love Git
 Use the left arrow to go back 
 
